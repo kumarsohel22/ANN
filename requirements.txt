@@ -2,3 +2,6 @@ scikit-learn
 tensorboard
 streamlit
 matplotlib
+pandas
+numpy
+tensorflow
